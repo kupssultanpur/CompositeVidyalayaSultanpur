@@ -1,0 +1,11 @@
+{
+  "name": "कम्पोजिट विद्यालय सुल्तानपुर",
+  "short_name": "विद्यालय सुल्तानपुर",
+  "description": "कम्पोजिट विद्यालय सुल्तानपुर, जनपद चंदौली",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#0b3b24",
+  "orientation": "portrait",
+  "lang": "hi"
+}
